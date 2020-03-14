@@ -1,0 +1,360 @@
+<resources>
+    <string name="app_name">Islamic Gadget</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Login/Signup</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_slanguage">Language</string>
+    <string name="menu_condition">Terms &amp; Condition</string>
+    <string name="menu_rating">Rating</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_Logout">Logout</string>
+
+
+    <string name="gadget2">Islamic_gadget</string>
+    <string name="title_activity_location">Map</string>
+    <string name="location">
+        "press accept button to set your\n"
+           "automatic location  tracking\n"
+    </string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--strings for viewpager-->
+    <string name="next">SKIP</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+
+    <string name="title_activity_kalima_page1">kalima_page1</string>
+
+
+    <string name="kalimapart1">
+
+            "لآ اِلَهَ اِلّا اللّهُ مُحَمَّدٌ رَسُوُلالل\n"
+
+
+    </string>
+    <string name="kalimapart2">
+
+ "There is none worthy of worship except Allah and Muhammad is the Messenger of Allah.\n"
+    </string>
+    <string name="kalimapart3">
+
+        "Laaa Ilaaha Illa-llaahu Muhammadur- Rasoolu-llaah\n"
+
+    </string>
+
+    <string name="kalimapart4">
+        "/اَشْهَدُ اَنْ لَّآ اِلٰهَ اِلَّا اللهُ وَحْدَہٗ لَاشَرِيْكَ لَہٗ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهٗ وَرَسُولُہٗ‎"
+    </string>
+
+    <string name="Kalimapart5">
+       "Bear witness that there is none worthy of worship except Allah,"
+        "the One alone, without partner, and I bear witness that Muhammad is His servant and Messenger"
+    </string>
+
+    <string name="Kalimapart6">
+        "Ash-hadu Al-laaa Ilaaha Illa-llaahu Wahdahoo Laa Shareeka Lahoo"
+        "Wa-Ash-hadu Anna Muhammadan ‘Abduhoo Wa Rasooluhu."
+
+
+    </string>
+    <string name="kalimapart7">
+        "سُبْحَان اللهِ وَالْحَمْدُلِلّهِ وَلا إِلهَ إِلّااللّهُ وَاللّهُ أكْبَرُ وَلا حَوْلَ وَلاَ قُوَّةَ إِلَّا بِاللّهِ الْعَلِيِّ الْعَظِيْم‎"
+
+    </string>
+
+    <string name="Kalimapart8">
+        "Glory be to Allah and all praise be to Allah, there is none worthy of worship except Allah, and Allah is the Greatest.\n"
+        "There is no might or power except from Allah, the Exalted, the Great One.\n"
+
+    </string>
+
+    <string name="kalimapart9">
+        "Subhaana-llaahi Walhamdu Lillaahi Walaaa Ilaaha Illa-llaahu Wallaahu Akbar.\n"
+        "Walaa Hawla Walaa Quwwata Illaa Billaahi-l ‘Aliyyil ‘Azeem\n"
+    </string>
+
+    <string name="Kalimapart10">
+        "لَآ اِلٰهَ اِلَّا اللهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَ لَهُ"
+        "الْحَمْدُ يُحْىٖ وَ يُمِيْتُ وَ هُوَحَیٌّ لَّا يَمُوْتُ اَبَدًا اَبَدًاؕ ذُو"
+        "الْجَلَالِ وَالْاِكْرَامِؕ بِيَدِهِ الْخَيْرُؕ وَهُوَ عَلٰى كُلِّ شیْ ٍٔ قَدِیْر"ٌؕ"
+
+    </string>
+
+    <string name="Kalimapart11">
+        "There is none worthy of worship except Allah. He is alone and has no partner.\n"
+        To Him belongs the Kingdom and for Him is all praise. He gives life and causes death.\n"
+        In His hand is all good and He has power over everything.\n"
+
+    </string>
+
+    <string name="Kalimapart12">
+        "Laaa Ilaaha Illa-llaahu Wahdahoo Laa Shareeka-lahoo Lahu Mulku Walahu\n"
+        Hamdu Yuhyee Wayumeetu Wahuwa Hayyu Laa Yamootu Abadan Abada.\n"
+        Dhu Jalaali Wal Ikraam. Biyadihil Khair. Wahuwa Alaa Kulli Shai-’in Qadeer.\n"
+
+    </string>
+    <string name="Kalimapart13">
+
+"اَللّٰهُمَّ اِنِّیْٓ اَعُوْذُ بِكَ مِنْ اَنْ اُشْرِكَ بِكَ شَيْئًا وَّاَنَآ اَعْلَمُ بِهٖ وَ اَسْتَغْفِرُكَ لِمَا لَآ"
+        "اَعْلَمُ بِهٖ تُبْتُ عَنْهُ وَ تَبَرَّأْتُ مِنَ الْكُفْرِ وَ الشِّرْكِ وَ الْكِذْبِ وَ الْغِيْبَةِ وَ الْبِدْعَةِ وَ النَّمِيْمَةِ وَ الْفَوَاحِشِ و"َ
+        "الْبُهْتَانِ وَ الْمَعَاصِىْ كُلِِّهَا وَ اَسْلَمْتُ وَ اَقُوْلُ لَآ اِلٰهَ اِلَّا اللهُ مُحَمَّدٌ رَّسُوْلُ الله"ِؕ
+
+    </string>
+    <string name="Kalimapart14">
+        "O Allah! I seek refuge in You from that I should ascribe any partner with You knowingly.\n"
+        "I seek Your forgiveness for the sin of which I have no knowledge.\n"
+        "lying and backbiting, innovation and slander,\n"
+        "lewdness and abomination and all other acts of disobedience,\n"
+        "I submit to Your will.I believe and I declare that there is none worthy of\n"
+        "worship except Allah and Muhammad is the Messenger of Allah.\n"
+    </string>
+    <string name="Kalimapart15">
+        "Allaa-humma Inneee A’udhu-bika Min An Ushrika Bika Shay-awn Wa-ana A’lamu Bihee Wa-\n"
+        "astaghfiruka Limaa Laaa A’lamu Bihee Tubtu ‘Anhu Wata-barraatu Mina-l Kufri Wash-shirki Wal-kidhbi\n"
+        "Wal-gheebati Wal-bid’ati Wan-nameemati Wal-fawahishi Wal-buhtaani Wal-m’aasi Kulli-haa\n"
+        "Wa-Aslamtu Wa-aqoolu Laaa Ilaaha Illa-llaahu Muhammadu-r Rasoolu-llah\n"
+    </string>
+
+
+    <string name="group1">What are the categories of zakatable wealth?</string>
+    <string name="group2">Who can receive zakat?</string>
+    <string name="group3">Who can recieve zakat?</string>
+    <string name="group4">Who can recieve zakat?</string>
+    <string name="group5">Who can recieve zakat?</string>
+
+    <string-array name="group1">
+        <item>All possessions can be classified into either zakatable or non-zakatable
+        wealth. for the purpose of zakat calculation, Muslim scholars have established five
+            categories of zakatable wealth:
+            (a) Personal Zakatable Wealth:
+            this includes money held in retirement and pension accounts.
+            (b)Business Zakatable Wealth:
+            1.Trading goods and liquid assets including business inventory
+            2.Exploited assets such as rented properties and factories
+            (c)Agricultural produce:
+            1.Crops from irrigated land,wherein the irriation system entails costs and labor
+            2.Crops from non-irrigated land watered by rain or natural spings
+        </item>
+    </string-array>
+
+    <string-array name="group2">
+        <item>item1</item>
+        <item>item2</item>
+    </string-array>
+
+    <string-array name="group3">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+
+    <string-array name="group4">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+    </string-array>
+
+    <string-array name="group5">
+        <item>ite1</item>
+        <item>ite2</item>
+        <item>ite3</item>
+        <item>ite4</item>
+        <item>ite5</item>
+    </string-array>
+
+
+    <string name="zakat">Zakat</string>
+    <string name="zakat_rules">Zakat Rules</string>
+    <string name="cash">Cash</string>
+    <string name="gold">Gold</string>
+    <string name="asset">Asset</string>
+    <string name="total">Total</string>
+    <string name="zakat_amount">Zakat amount</string>
+    <string name="essential">Essential</string>
+    <string name="conditional"> Terms and Condition</string>
+    <string name="essentialQ_1">What are the catagories of zakatable wealth?</string>
+    <string name="terms_and_condition">A Terms Conditions agreement, also known as a T and C, Terms
+    of Use or Terms of Service,is the legal backbone of the relationship between your mobile app and your users
+    it sets forth clauses that embody the reles, forth clauses that embody the reles, requirement, restrictions
+    and limitation that a user must agree to in order to use your mobile app.</string>
+    <string name="essentialQ_2">Who can receive zakat?</string>
+
+    <string name="rj_niat">
+       রোজার নিয়ত:\n
+
+نَوَيْتُ اَنْ اُصُوْمَ غَدًا مِّنْ شَهْرِ رَمْضَانَ\n
+        الْمُبَارَكِ فَرْضَا لَكَيَا اللهُ فَتَقَبَّل مِنِّى\n
+      اِنَّكَ اَنْتَ السَّمِيْعُ الْعَلِيْم\n
+
+আরবি নিয়ত :\n
+        নাওয়াইতু আন আছুম্মা গাদাম মিন শাহরি রমাজানাল মুবারাকি ফারদাল্লাকা,\n
+        ইয়া আল্লাহু ফাতাকাব্বাল মিন্নি ইন্নিকা আনতাস সামিউল আলিম।,\n
+    </string>
+    <string name="ifter_dowa">
+   ইফতারের সময় এই দোয়া পড়ে ইফতার করা:\n\n
+
+اَللَّهُمَّ لَكَ صُمْتُ وَ عَلَى رِزْقِكَ وَ\n
+        اَفْطَرْتُ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِيْمِيْن\n
+
+উচ্চারণ :\n
+        আল্লাহুম্মা লাকা ছুমতু ওয়া আলা রিযক্বিকা\n
+        ওয়া আফতারতু বিরাহমাতিকা ইয়া আরহামার রাহিমিন।\n
+
+    </string>
+    <string name="rojar_foroj">
+        রোজার ৩ ফরজ : \n\n
+
+১. নিয়ত করা\n
+২. সব ধরনের পানাহার থেকে বিরত থাকা\n
+৩. যৌন আচরণ থেকে বিরত থাকা।\n
+
+আবার অন্যভাবে বলা যায়\n
+        রোজার ফরজ ৬০ টি তা হলো,৩০ রোজার ৩০ নিয়ত করা ফরজ \n এবং ৩০ টি রোজা রাখা ও ফরজ।এভাবে বললে ফরজ হয় ৬০ টি।\n
+    </string>
+    <string name="rojer_wajib">
+        রমজানের ওয়াজিবসমূহ
+
+রমজানের সঙ্গে সম্পৃক্ত ওয়াজিব দুটি।\n
+        যথা: সদকাতুল ফিতর আদায় করা \n
+        ও ঈদের নামাজ পড়া। \n
+        ঈদের দিন সকালে যিনি নিসাব পরিমাণ সম্পদের মালিক বা অধিকারী থাকবেন,\n
+        তিনি তাঁর নিজের ও পরিবারের সব সদস্যের ফিতরা আদায় করবেন।\n
+        যদি কেউ নিসাব পরিমাণ সম্পদের মালিক না–ও থাকেন,\n
+        তবু সুন্নত বা নফল হিসেবে হলেও সদকাতুল ফিতরা প্রদান করা উত্তম।\n
+
+    </string>
+    <string name="fajael">
+        ১. এ মাসের সাথে ইসলামের একটি গুরুত্বপূর্ণ রুকনের সম্পর্ক রয়েছে ; আর তা হলে সিয়াম পালন।\n
+হজ যেমন জিলহজ মাসের সাথে সম্পর্কিত হওয়ার কারণে সে মাসের মর্যাদা বৃদ্ধি করেছে এমনি সিয়াম রমজান\n
+ মাসে হওয়ার কারণে এ মাসের মর্যাদা বেড়ে গেছে।\n
+ আল্লাহ রাব্বুল আলামিন বলেন : হে মোমিনগণ! তোমাদের উপর সিয়াম ফরজ করা হয়েছে, যেমনি ফরজ করা \n
+হয়েছে তোমাদের পূর্ববর্তীদের উপর-যাতে তোমরা মুত্তাকি হতে পার।\n
+ [সূরা বাকারা : ১৮৩] রাসূলে করিম সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন : ইসলাম যে পাঁচটি ভিত্তির উপর প্রতিষ্ঠিত তার\n
+ একটি হল সিয়াম পালন। এ সিয়াম জান্নাত লাভের একটি মাধ্যম ; যেমন হাদিসে এসেছে : যে আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান\n
+ আনল, সালাত কায়েম করল, জাকাত আদায় করল, সিয়াম পালন করল রমজান মাসে, আল্লাহ তাআলার কর্তব্য হল তাকে জান্নাতে\n
+ প্রবেশ করানো। [ বোখারি ] ২. রমজান হল কোরআন নাজিলের মাস। আল্লাহ রাব্বুল আলামিন বলেন : রমজান মাস,\n
+ এতে নাজিল হয়েছে আল-কোরআন, যা মানুষের দিশারি এবং স্পষ্ট নিদর্শন ও সত্যাসত্যের পার্থক্যকারী।\n
+[ সূরা বাকারা : ১৮৪ ] রমজান মাসে সপ্তম আকাশের লওহে মাহফুজ থেকে দুনিয়ার আকাশে বায়তুল ইজ্জতে \n
+পবিত্র আল-কোরআন একবারে নাজিল হয়েছে। সেখান হতে আবার রমজান মাসে অল্প অল্প করে নবী করিম সাল্লাল্লাহু\n
+ আলাইহি ওয়া সাল্লাম-এর প্রতি নাজিল হতে শুরু করে। কোরআন নাজিলের দুটি স্তরই রমজান মাসকে ধন্য করেছে। \n
+শুধু আল-কোরআনই নয় বরং ইবরাহিম আ.-এর সহিফা, তাওরাত, যবুর, ইঞ্জিল সহ সকল ঐশী গ্রন্থ এ মাসে অবতীর্ণ\n
+ হয়েছে বলে তাবরানী বর্ণিত একটি সহি হাদিসে উল্লেখ করা হয়েছে। (সহি আল-জামে) এ মাসে মানুষের হেদায়াত ও\n
+ আলোকবর্তিকা যেমন নাজিল হয়েছে তেমনি আল্লাহর রহমত হিসেবে এসেছে সিয়াম। তাই এ দুই নিয়ামতের শুকরিয়া \n
+আদায় করতে বেশি বেশি করে কোরআন তিলাওয়াত করা উচিত। প্রতি বছর রমজান মাসে জিবরাইল রাসূলুল্লাহ সাল্লাল্লাহু\n
+ আলাইহি ওয়া সাল্লাম-কে পূর্ণ কোরআন শোনাতেন এবং রাসূল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম-ও তাকে পূর্ণ কোরআন শোনাতেন। \n
+আর জীবনের শেষ রমজানে আল্লাহর রাসূল দু বার পূর্ণ কোরআন তিলাওয়াত করেছেন। সহি মুসলিমের হাদিস দ্বারা এটা প্রমাণিত।\n
+    </string>
+<string name="nameofallah">
+"1   Ar Rahmaan	الرحمن	The Beneficent\n
+2	Ar Raheem	الرحيم	The Merciful\n
+3	Al Malik	الملك	The King\n
+4	Al Quddus	القدوس	The Most Holy\n
+5	As Salam	السلام	Peace and Blessings\n
+6	Al Mumin	المؤمن	The Guardian of Faith\n
+7	Al Muhaymin	المهيمن	The Protector\n
+8	Al Azeez	العزيز	The All Mighty\n
+9	Al Jabbar	الجبار	The Compeller\n
+10	Al Mutakabbir	الْمُتَكَبِّرُ	The Dominate One, The Majestic\n
+11	Al Khaaliq	الخالق	The Creator\n
+12	Al Baari	البارئ	The Maker\n
+13	Al Musawwir	المصور	Flawless Shaper\n
+14	Al Ghaffar	الغفار	The Ever-Forgiving\n
+15	Al Qahhar	القهار	The All Subduer\n
+16	Al Wahhaab	الوهاب	The Bestower\n
+17	Ar Razzaaq	الرزاق	The Ever-Providing; The Sustainer\n
+18	Al Fattaah	الفتاح	The Ultimate Judge\n
+19	Al Aleem	العليم	The All-Knowing; The Omniscient\n
+20	Al Qaabid	القابض	The Restricting One\n
+21	Al Baasit	الباسط	The Expander\n
+22	Al Khaafidh	الخافض	The Abaser\n
+23	Ar Raafi	الرافع	The Exalter\n
+24	Al Muizz	المعز	The Giver of Honour\n
+25	Al Muzil	المذل	The Dishonourer\n
+26	As Samee	السميع	The All-Hearing\n
+27	Al Baseer	البصير	The All-Seeing\n
+28	Al Hakam	الحكم	The Judge; The Ultimate Arbiter\n
+29	Al Adl	العدل	The Utterly Just\n
+30	Al Lateef	اللطيف	The Kind\n
+31	Al Khabeer	الخبير	The All-Aware\n
+32	Al Halem	الحليم	The Forbearer; The Indulgent\n
+33	Al-‘Atheem	العظيم	The Magnificent; The Infinite\n
+34	Al Ghafoor	الغفور	The All-Forgiving\n
+35	Ash Shakur	الشكور	The Most Appreciative\n
+36	Al Alee	العلي	The Sublimely Exalted\n
+37	Al Kabeer	الكبير	The Greatest\n
+38	Al Hafeedh	الحفيظ	The Preserver; The Protector\n
+39	Al Muqeet	المقيت	The Nourisher\n
+40	Al Haseeb	الحسيب	The Reckoner\n
+41	Al Jaleel	الجليل	The Majestic\n
+42	Al Kareem	الكريم	The Bountiful; The Generous\n
+43	Ar Raqeeb	الرقيب	The Watchful\n
+44	Al Mujeeb	المجيب	The Responsive; The Answerer\n
+45	Al Waasi	الواسع	The Vast; The All Encompassing\n
+46	Al Hakeem	الحكيم	The Wise\n
+47	Al Wadood	الودود	The Loving; The Kind One\n
+48	Al Majeed	المجيد	The All Glorious\n
+49	Al Baith	الباعث	The Raiser of the Dead\n
+50	Ash Shaheed	الشهيد	The Witness\n
+51	Al Haqq	الحق	The Truth; The Real\n
+52	Al Wakeel	الوكيل	The Trustee; The Dependable\n
+53	Al Qawiyy	القوي	The Strong\n
+54	Al Mateen	المتين	The Firm; The Steadfast\n
+55	Al Waliyy	الولي	The Protecting Friend, Patron, and Supporter\n
+56	Al Hameed	الحميد	The All Praise Worthy\n
+57	Al Muhsee	المحصي	The Accounter; The Numberer of All\n
+58	Al Mubdi	المبدئ	The Producer, Originator, and Initiator of all\n
+59	Al Mu'id	المعيد	The Reinstater Who Brings Back All\n
+60	Al Muhyee	المحيي	The Giver of Life\n
+61	Al Mumeet	المميت	The Bringer of Death; The Destroyer\n
+62	Al Hayy	الحي	The Ever Living\n
+63	Al Qayyoom	القيوم	The Self Subsisting Sustainer of All\n
+64	Al Waajid	الواجد	The Perceiver; The Finder; The Unfailing\n
+65	Al Maajid	الماجد	The Illustrious; The Magnificent\n
+66	Al Waahid	الواحد	The One; The All Inclusive; The Indivisible\n
+67	Al Ahad	الاحد	The One; The Indivisible\n
+68	As Samad	الصمد	The Everlasting; The Eternal Refuge\n
+69	Al Qaadeer	القادر	The All-Capable; The Most Able; The Most Powerful\n
+70	Al Muqtadir	المقتدر	The All Determiner; The Dominant\n
+71	Al Muqaddim	المقدم	The Expediter; He Who Brings Forward\n
+72	Al Mu'akhkhir	المؤخر	The Delayer; He Who Brings Backwards\n
+73	Al Awwal	الأول	The First\n
+74	Al Aakhir	الآخر	The Last\n
+75	Az Dhaahir	الظاهر	The Manifest; The All Victorious\n
+76	Al Baatin	الباطن	The Hidden; The All Encompassing\n
+77	Al Waali	الوالي	The Patron\n
+78	Al Muta'ali	المتعالي	The Self Exalted\n
+79	Al Barr	البر	The Most Kind and Righteous\n
+80	At Tawwab	التواب	The Ever-Pardoning, Ever Relenting\n
+81	Al Muntaqim	المنتقم	The Avenger\n
+82	Al 'Afuww	العفو	The Pardoner; The Forgiver\n
+83	Ar Ra'oof	الرؤوف	The Clement; The Compassionate; The All-Pitying\n
+84	Maalik ul Mulk	مالك الملك	The Owner of All Sovereignty\n
+85	Dhul Jalaali wal Ikraam	ذو الجلال و الإكرام	The Lord of Majesty and Generosity\n
+86	Al Muqsit	المقسط	The Equitable; The Requiter\n
+87	Al Jaami'	الجامع	The Gatherer; The Unifier\n
+88	Al Ghaniyy	الغني	The All Rich; The Independent\n
+89	Al Mughni	المغني	The Enricher; The Emancipator\n
+90	Al Mani'	المانع	The Withholder; The Shielder; The Defender\n
+91	Ad Dharr	الضآر	The Distresser\n
+92	An Nafi'	النافع	The Propitious; The Benefactor\n
+93	An Nur	النور	The Light\n
+94	Al Haadi	الهادي	The Guide\n
+95	Al Badee'	البديع	Incomparable; The Originator\n
+96	Al Baaqi	الباقي	The Ever Enduring and Immutable\n
+97	Al Waarith	الوارث	The Heir; The Inheritor of All\n
+98	Ar Rasheed	الرشيد	The Guide, Infallible Teacher, and Knower\n
+99	As Saboor	الصبور	The Forbearing; The Patient\n"
+    </string>
+
+
+
+</resources>

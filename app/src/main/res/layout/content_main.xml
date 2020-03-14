@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context=".MainActivity_main"
+    tools:showIn="@layout/app_bar_main"
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="370dp"
+        android:background="@drawable/background_1"
+        tools:visibility="visible">
+
+        <ImageView
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="290dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/faijr" />
+        <ImageView
+            android:layout_marginTop="290dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/dohur" />
+
+        <ImageView
+            android:layout_marginTop="290dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/asr" />
+        <ImageView
+            android:layout_marginTop="290dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/magrib" />
+
+        <ImageView
+            android:layout_marginTop="290dp"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/asr" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:orientation="horizontal"
+        android:background="@drawable/background_2"
+        tools:visibility="visible">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="208dp"
+            android:layout_height="225dp"
+            android:orientation="vertical">
+
+            <TextClock
+                android:id="@+id/digital_clock"
+                android:layout_width="145dp"
+                android:layout_height="45dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="60dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:fontFamily="@font/sairasemicondensed_light"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.17"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.062" />
+
+            <TextView
+                android:id="@+id/date_view"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:fontFamily="@font/sairasemicondensed_light"
+                android:textAlignment="center"
+                android:textColor="@color/gold"
+                android:textSize="30dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.675" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <ImageView
+            android:layout_width="148dp"
+            android:layout_marginTop="50dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="40dp"
+            android:src="@drawable/cloud" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="370dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/kalima"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="12dp"
+            android:background="@drawable/kalima"
+            />
+        <Button
+            android:id="@+id/salat"
+            android:layout_margin="12dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/salat"
+            />
+        <Button
+            android:id="@+id/ramadan"
+            android:layout_margin="12dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/ramadan"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_marginTop="490dp"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_height="150dp"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/hajj"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="12dp"
+            android:background="@drawable/hajj"
+            />
+        <Button
+            android:id="@+id/zakat"
+            android:layout_margin="12dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/zakat"
+            />
+        <Button
+            android:id="@+id/more"
+            android:layout_margin="12dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/more"
+
+            />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
